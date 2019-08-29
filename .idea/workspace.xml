@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3640abfa-d37b-475f-872e-67ca114b34fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CoreSource/starter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreSource/wordSeg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreSource/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CoreSource/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreSource/speechRec.py" beforeDir="false" afterPath="$PROJECT_DIR$/CoreSource/speechRec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreSource/starter.py" beforeDir="false" afterPath="$PROJECT_DIR$/CoreSource/starter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,36 +14,37 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/redesigned_happiness$speechRec.coverage" NAME="speechRec Coverage Results" MODIFIED="1567005783528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoreSource" />
-    <SUITE FILE_PATH="coverage/redesigned_happiness$starter.coverage" NAME="starter Coverage Results" MODIFIED="1567007714759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoreSource" />
+    <SUITE FILE_PATH="coverage/redesigned_happiness$starter.coverage" NAME="starter Coverage Results" MODIFIED="1567082606504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoreSource" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1358166141">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="4" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="445" />
+          <entry key="py" value="839" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="445" />
+          <entry key="Python" value="839" />
         </counts>
       </usages-collector>
     </session>
@@ -60,9 +60,9 @@
         <entry file="file://$PROJECT_DIR$/CoreSource/speechRec.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
               <folding>
-                <marker date="1567007702093" expanded="true" signature="56:57" ph="..." />
+                <marker date="1567082054828" expanded="true" signature="56:57" ph="..." />
               </folding>
             </state>
           </provider>
@@ -71,8 +71,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CoreSource/starter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="152">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+              <folding>
+                <element signature="e#16#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreSource/wordSeg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+              <folding>
+                <marker date="1567082634364" expanded="true" signature="53:58" ph="..." />
+                <marker date="1567082634364" expanded="true" signature="141:146" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +111,7 @@
         <option value="$PROJECT_DIR$/CoreSource/__init__.py" />
         <option value="$PROJECT_DIR$/CoreSource/speechRec.py" />
         <option value="$PROJECT_DIR$/CoreSource/starter.py" />
+        <option value="$PROJECT_DIR$/CoreSource/wordSeg.py" />
       </list>
     </option>
   </component>
@@ -115,6 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,7 +158,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +250,7 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="26" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25305623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25611246" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -246,8 +263,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32996634" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061125" side_tool="true" weight="0.32996634" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49938875" weight="0.32996634" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -270,17 +287,31 @@
     <entry file="file://$PROJECT_DIR$/CoreSource/speechRec.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding>
-            <marker date="1567007702093" expanded="true" signature="56:57" ph="..." />
+            <marker date="1567082054828" expanded="true" signature="56:57" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreSource/wordSeg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <marker date="1567082634364" expanded="true" signature="53:58" ph="..." />
+            <marker date="1567082634364" expanded="true" signature="141:146" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CoreSource/starter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="152">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          <folding>
+            <element signature="e#16#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
