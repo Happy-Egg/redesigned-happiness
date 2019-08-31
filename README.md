@@ -15,6 +15,13 @@ A curriculum design project from NJUST, include speech-recognition, word-segment
 
 调用示例如下：`python starter.py -p AudioFiles/16k.wav -f wav -w 北京`
 
+有关模块所能处理的音频和分词情况，参考模块说明。
+
+## 功能模块说明
+
+- [speechRec模块](https://github.com/Happy-Egg/redesigned-happiness/wiki/speechRec%E6%A8%A1%E5%9D%97)
+- [wordSeg模块](https://github.com/Happy-Egg/redesigned-happiness/wiki/wordSeg%E6%A8%A1%E5%9D%97)
+
 ## 项目目录
 
 ├─ AudioFiles  
