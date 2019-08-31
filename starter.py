@@ -9,18 +9,16 @@ from CoreSource import wordSeg
 
 def main(argv):
 
-    file_path = 'C:/Users/JyunmauChan/Music/课程设计测试音频/16k.wav'
+    file_path = 'AudioFiles/16k.wav'
     file_format = 'wav'
     word = '北京'
 
     try:
-        options, args = getopt.getopt(argv, "hp-p:-f:-w:", ["help", "path=", "format=", "word="])
+        options, args = getopt.getopt(argv, "-p:-f:-w:", ["path=", "format=", "word="])
     except getopt.GetoptError:
         sys.exit()
 
     for option, value in options:
-        if option in ("-h", "--help"):
-            print("help")
         if option in ("-p", "--path"):
             file_path = value
         if option in ("-f", "--format"):
