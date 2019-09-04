@@ -14,7 +14,7 @@ def all_file_path(path='../../AudioFiles/CASIA_database/', file_type='wav'):
     return read_files
 
 
-def get_data(files, feature_model='all', split_ratio=0.7):
+def get_data(files, feature_model='all', split_ratio=0.8):
     """生成特征数据集"""
     data_feature = []
     data_labels = []
@@ -28,7 +28,6 @@ def get_data(files, feature_model='all', split_ratio=0.7):
             return
         data_labels.append(int(EMOTION_LABEL[f.split('\\')[-2]]))
     data_feature = np.array(data_feature)
-    print(data_feature.ndim)
     data_labels = np.array(data_labels)
     split_num = int(len(files) * split_ratio)
     train_data = data_feature[:split_num, :]
