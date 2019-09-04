@@ -2,6 +2,7 @@ from sklearn import svm
 import glob
 from random import shuffle
 from CoreSource.SpeechBasedEmotionRec import speechFeature as sf
+import numpy as np
 
 EMOTION_LABEL = {'angry': '1', 'fear': '2', 'happy': '3', 'neutral': '4', 'sad': '5', 'surprise': '6'}
 
@@ -20,13 +21,16 @@ def get_data(files, feature_model='all', split_ratio=0.7):
     for f in files:
         if feature_model == 'all':
             data_feature.append(sf.get_all_feature(f))
-        if feature_model == 'mfcc':
+        elif feature_model == 'mfcc':
             data_feature.append(sf.get_mfcc(f))
         else:
             print('feature_model error !')
             return
         data_labels.append(int(EMOTION_LABEL[f.split('\\')[-2]]))
-    split_num = files.len() * split_ratio
+    data_feature = np.array(data_feature)
+    print(data_feature.ndim)
+    data_labels = np.array(data_labels)
+    split_num = int(len(files) * split_ratio)
     train_data = data_feature[:split_num, :]
     train_label = data_labels[:split_num]
     test_data = data_feature[split_num:, :]
@@ -40,4 +44,4 @@ def do_train(train_data, train_label, test_data, test_label):
     clf.fit(train_data, train_label)
     acc = clf.score(test_data, test_label)
     print('>>====================Train Over===================<<')
-    print("测试集正确率为：" + acc*100 + "%")
+    print("测试集正确率为：" + "{:.2f}".format(acc * 100) + "%")

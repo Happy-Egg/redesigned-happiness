@@ -32,7 +32,7 @@ def get_all_feature(path):
     """获取所有语音特征"""
     y, sr = librosa.load(path)
     mfcc_feature = librosa.feature.mfcc(y, sr, n_mfcc=16)
-    mfcc_feature = mfcc_feature.T.flatten()
+    mfcc_feature = mfcc_feature.T.flatten()[:20]
     zcr_feature = librosa.feature.zero_crossing_rate(y)
     zcr_feature = zcr_feature.flatten()
     zcr_feature = np.array([np.mean(zcr_feature)])
@@ -40,4 +40,3 @@ def get_all_feature(path):
     energy_feature = energy_feature.flatten()
     energy_feature = np.array([np.mean(energy_feature)])
     return np.concatenate((mfcc_feature, zcr_feature, energy_feature))
-
