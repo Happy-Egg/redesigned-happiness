@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3640abfa-d37b-475f-872e-67ca114b34fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/spectrogram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py" beforeDir="false" afterPath="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py" afterDir="false" />
     </list>
@@ -14,7 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/redesigned_happiness$mfccFeature.coverage" NAME="mfccFeature Coverage Results" MODIFIED="1567525139526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec" />
-    <SUITE FILE_PATH="coverage/redesigned_happiness$ml_starter.coverage" NAME="ml_starter Coverage Results" MODIFIED="1567573876995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/redesigned_happiness$ml_starter.coverage" NAME="ml_starter Coverage Results" MODIFIED="1567750500351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/redesigned_happiness$spectrogram.coverage" NAME="spectrogram Coverage Results" MODIFIED="1567599738001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec" />
     <SUITE FILE_PATH="coverage/redesigned_happiness$speechRec.coverage" NAME="speechRec Coverage Results" MODIFIED="1567005783528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoreSource" />
     <SUITE FILE_PATH="coverage/redesigned_happiness$machineLearning.coverage" NAME="machineLearning Coverage Results" MODIFIED="1567570970400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec" />
@@ -43,9 +42,9 @@
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.5" value="6" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,13 +62,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="23" />
-          <entry key="py" value="4029" />
+          <entry key="py" value="4134" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="4029" />
+          <entry key="Python" value="4134" />
         </counts>
       </usages-collector>
     </session>
@@ -122,37 +121,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/speechFeature.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="281">
+              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1567573075004" expanded="true" signature="783:815" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-                <marker date="1567575307534" expanded="true" signature="582:587" ph="..." />
+                <marker date="1567750498548" expanded="true" signature="783:815" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+                <marker date="1567744417975" expanded="true" signature="613:618" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/spectrogram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="60" lean-forward="true" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
-              <folding>
-                <element signature="e#9#27#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-61">
+              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -198,9 +194,9 @@
         <option value="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/mfccFeature.py" />
         <option value="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/__init__.py" />
         <option value="$PROJECT_DIR$/ml_starter.py" />
-        <option value="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/speechFeature.py" />
-        <option value="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py" />
         <option value="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/spectrogram.py" />
+        <option value="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py" />
+        <option value="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/speechFeature.py" />
       </list>
     </option>
   </component>
@@ -210,9 +206,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2024" />
-    <option name="y" value="26" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="30" />
     <option name="width" value="1696" />
     <option name="height" value="1026" />
   </component>
@@ -221,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,7 +254,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spectrogram">
+  <component name="RunManager" selected="Python.ml_starter">
     <configuration name="machineLearning" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="redesigned-happiness" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -404,8 +400,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.spectrogram" />
         <item itemvalue="Python.ml_starter" />
+        <item itemvalue="Python.spectrogram" />
         <item itemvalue="Python.machineLearning" />
         <item itemvalue="Python.mfccFeature" />
         <item itemvalue="Python.starter" />
@@ -426,15 +422,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="26" width="1696" height="1026" extended-state="6" />
+    <frame x="1912" y="30" width="1696" height="1026" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29400977" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29767725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32996634" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4987775" visible="true" weight="0.32996634" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -492,6 +489,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/201.png" />
     <entry file="file://$PROJECT_DIR$/CoreSource/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -527,31 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/speechFeature.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1567573075004" expanded="true" signature="783:815" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-            <marker date="1567575307534" expanded="true" signature="582:587" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/201.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ml_starter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -564,10 +537,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/spectrogram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="60" lean-forward="true" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
+        <state relative-caret-position="-61">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/speechFeature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
           <folding>
-            <element signature="e#9#27#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1567750498548" expanded="true" signature="783:815" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <marker date="1567744417975" expanded="true" signature="613:618" ph="..." />
           </folding>
         </state>
       </provider>
