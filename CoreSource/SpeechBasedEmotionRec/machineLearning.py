@@ -4,6 +4,7 @@ from random import shuffle
 from CoreSource.SpeechBasedEmotionRec import speechFeature as sf
 import matplotlib.image as img
 import numpy as np
+import time
 
 EMOTION_LABEL = {'angry': '1', 'fear': '2', 'happy': '3', 'neutral': '4', 'sad': '5', 'surprise': '6'}
 
@@ -19,15 +20,23 @@ def get_data(files, feature_model='all', split_ratio=0.9):
     """生成特征数据集"""
     data_feature = []
     data_labels = []
+    mel_lens = []
+    counter = 1
     for f in files:
+        # # print('正在处理第 ' + "{:.0f}".format(counter) + ' 条...')
+        # counter += 1
         if feature_model == 'all':
             data_feature.append(sf.get_all_feature(f))
         elif feature_model == 'mfcc':
-            data_feature.append(sf.get_mfcc(f))
+            mel_length, mfcc_feature = sf.get_mfcc(f)
+            # data_feature.append(mfcc_feature)
         else:
             print('feature_model error !')
             return
         data_labels.append(int(EMOTION_LABEL[f.split('\\')[-2]]))
+        # if mel_length == 16:
+        #     mel_lens.append(counter)
+    # print(mel_lens)
     data_feature = np.array(data_feature)
     data_labels = np.array(data_labels)
     split_num = int(len(files) * split_ratio)
@@ -40,8 +49,9 @@ def get_data(files, feature_model='all', split_ratio=0.9):
 
 def do_train(train_data, train_label, test_data, test_label):
     """SVM训练模型"""
-    clf = svm.SVC(decision_function_shape='ovo', kernel='rbf', C=12, gamma=0.0001)
+    clf = svm.SVC(decision_function_shape='ovo', kernel='rbf', C=19, gamma=0.0001)
     clf.fit(train_data, train_label)
     acc = clf.score(test_data, test_label)
     print('>>====================Train Over===================<<')
     print("测试集正确率为：" + "{:.2f}".format(acc * 100) + "%")
+    print(clf.predict(test_data[:5, :]))

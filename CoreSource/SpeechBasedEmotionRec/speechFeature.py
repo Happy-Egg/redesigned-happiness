@@ -1,13 +1,19 @@
 import librosa
 import numpy as np
+import CoreSource.SpeechBasedEmotionRec.spechFeatureNew as sfn
 
 
 def get_mfcc(path):
     """获取梅尔倒频谱系数"""
-    y, sr = librosa.load(path)
-    mfcc_feature = librosa.feature.mfcc(y, sr, n_mfcc=16)
-    mfcc_feature = mfcc_feature.T.flatten()
-    return mfcc_feature
+    # y, sr = librosa.load(path)
+    # mfcc_feature = librosa.feature.mfcc(y, sr, n_mfcc=16)
+    # mfcc_feature = mfcc_feature.T.flatten()[:70]
+    win = 256
+    inc = 80
+    wavedata, nframes, framerate = sfn.read(path)
+    FrameK = sfn.point_check(wavedata, win, inc)
+    mel_length, S, mel_bank, P, logP, mfcc_feature = sfn.mfcc(FrameK, framerate, win)
+    return mel_length, mfcc_feature.T.flatten()
 
 
 def get_zcr(path):
