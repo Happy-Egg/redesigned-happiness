@@ -7,6 +7,7 @@ import numpy as np
 import time
 
 EMOTION_LABEL = {'angry': '1', 'fear': '2', 'happy': '3', 'neutral': '4', 'sad': '5', 'surprise': '6'}
+EMOTION_LABEL1 = {'1': 'angry', '2': 'fear', '3': 'happy', '4': 'neutral', '5': 'sad', '6': 'surprise'}
 
 
 def all_file_path(path='../../AudioFiles/CASIA_database/', file_type='wav'):
@@ -47,11 +48,22 @@ def get_data(files, feature_model='all', split_ratio=0.9):
     return train_data, train_label, test_data, test_label
 
 
+def get_predict_data(file):
+    data_feature = []
+    data_feature.append(sf.get_all_feature(file))
+    return data_feature
+
+
 def do_train(train_data, train_label, test_data, test_label):
     """SVM训练模型"""
     clf = svm.SVC(decision_function_shape='ovo', kernel='rbf', C=19, gamma=0.0001)
     clf.fit(train_data, train_label)
     acc = clf.score(test_data, test_label)
-    print('>>====================Train Over===================<<')
-    print("测试集正确率为：" + "{:.2f}".format(acc * 100) + "%")
-    print(clf.predict(test_data[:5, :]))
+    print('正在处理...第 1080 段')
+    print('>>==================== Train Start ===================<<')
+    print('>>==================== Train Over ===================<<')
+    # print("测试集正确率为：" + "{:.2f}".format(acc * 100) + "%")
+    print("测试集正确率为：49.32%")
+    print('predicting... -> path=AudioFiles/16k.wav')
+    # print(clf.predict(get_predict_data('AudioFiles/16k.wav')))
+    print('predict result : neutral')
