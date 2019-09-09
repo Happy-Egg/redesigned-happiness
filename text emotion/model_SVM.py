@@ -25,20 +25,29 @@ def show_roc(model, X, y):
     plt.legend(loc = 'lower right')
     plt.show()
 
+def save_model(X_train , y_train , model_path):
+    clf = svm.SVC(C = 2, probability = True)
+    clf.fit(X_train,y_train)
+    joblib.dump(clf, model_path)
+
 df = pd.read_csv('data/ChnSentiCorp_htl_ba_2000/2000_data.csv')
-y = df.iloc[:, 1]#第一列是索引，第二列是标签
-x = df.iloc[:, 2:]#第三列之后是400维的词向量
-##根据图形取100维
+#第一列是索引，第二列是标签
+y = df.iloc[:, 1]
+#第三列之后是400维的词向量
+x = df.iloc[:, 2:]
+
 warnings.filterwarnings('ignore')
+##根据图形取100维
 x_pca = PCA(n_components = 100).fit_transform(x)
 
+#分类测试集与数据集
 X_train, X_test, y_train, y_test = train_test_split( x_pca, y, test_size=0.25, random_state=0) 
 
-clf = svm.SVC(C = 2, probability = True)
-clf.fit(X_train,y_train)
-joblib.dump(clf, "data/model/SVM_model.m")
+model_path="data/model/SVM_model.m"
+#仅在第一次使用保存模型 
+#save_model(X_train , y_train , model_path)
 
-model = joblib.load("data/model/SVM_model.m")
+model = joblib.load(model_path)
 y_predict = model.predict(X_test)
 
 print(accuracy_score(y_test, y_predict))
