@@ -2,6 +2,1235 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6336d73f-955e-4a71-8524-635c8b7a618f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/angry/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/fear/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/happy/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/neutral/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/sad/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/ZhaoZuoxiang/surprise/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/angry/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/fear/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/happy/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/neutral/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/sad/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/liuchanhg/surprise/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/angry/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/fear/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/happy/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/neutral/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/sad/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/wangzhe/surprise/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/angry/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/fear/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/happy/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/neutral/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/sad/_desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/201.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/202.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/203.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/204.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/205.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/206.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/207.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/208.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/209.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/210.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/211.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/212.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/213.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/214.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/215.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/216.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/217.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/218.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/219.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/220.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/221.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/222.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/223.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/224.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/225.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/226.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/227.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/228.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/229.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/230.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/231.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/232.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/233.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/234.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/235.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/236.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/238.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/239.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/240.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/241.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/242.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/243.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/244.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/245.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/246.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/247.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/248.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/249.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/250.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AudioFiles/CASIA_database/zhaoquanyin/surprise/_desktop.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py" beforeDir="false" afterPath="$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +1247,14 @@
     <session id="1358166141">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,7 +1284,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/spechFeatureNew.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="285">
               <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -63,11 +1296,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1195">
-              <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
+            <state relative-caret-position="503">
+              <caret line="60" column="42" lean-forward="true" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-                <marker date="1567933078688" expanded="true" signature="1723:1822" ph="..." />
+                <marker date="1568558588212" expanded="true" signature="1723:1822" ph="..." />
               </folding>
             </state>
           </provider>
@@ -76,8 +1309,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoreSource/speechRec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="247">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -94,7 +1327,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/starter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-336">
+            <state relative-caret-position="133">
               <caret line="11" column="35" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="35" />
             </state>
           </provider>
@@ -124,7 +1357,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/spectrogram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
+            <state relative-caret-position="636">
               <caret line="38" column="105" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="105" />
             </state>
           </provider>
@@ -163,17 +1396,16 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2384" />
-    <option name="y" value="41" />
-    <option name="width" value="1549" />
-    <option name="height" value="838" />
+    <option name="x" value="1912" />
+    <option name="y" value="26" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,10 +1433,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -292,7 +1526,7 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="26" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2591687" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13202934" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -306,7 +1540,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.51964086" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.18742986" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -322,27 +1556,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/spectrogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="105" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/spechFeatureNew.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/cutAudios.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreSource/wordSeg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/starter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -356,13 +1587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/starter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-336">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ml_starter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -370,20 +1594,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/spectrogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="38" column="105" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CoreSource/speechRec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="247">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/spechFeatureNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CoreSource/SpeechBasedEmotionRec/machineLearning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1195">
-          <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
+        <state relative-caret-position="503">
+          <caret line="60" column="42" lean-forward="true" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-            <marker date="1567933078688" expanded="true" signature="1723:1822" ph="..." />
+            <marker date="1568558588212" expanded="true" signature="1723:1822" ph="..." />
           </folding>
         </state>
       </provider>
