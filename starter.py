@@ -1,4 +1,4 @@
-# coding=utf-8
+# coding=<encoding name>
 
 import getopt
 import sys
@@ -8,7 +8,6 @@ from CoreSource import wordSeg
 
 
 def main(argv):
-
     file_path = 'AudioFiles/16k.wav'
     file_format = 'wav'
     word = '北京'

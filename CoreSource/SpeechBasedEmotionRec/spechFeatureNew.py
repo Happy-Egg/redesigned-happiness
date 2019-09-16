@@ -1,3 +1,4 @@
+# coding=<encoding name>
 import wave
 import numpy as np
 import math

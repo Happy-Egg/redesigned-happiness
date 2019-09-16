@@ -1,3 +1,4 @@
+# coding=<encoding name>
 import librosa
 import numpy as np
 import CoreSource.SpeechBasedEmotionRec.spechFeatureNew as sfn

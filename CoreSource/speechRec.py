@@ -1,6 +1,5 @@
+# coding=<encoding name>
 from aip import AipSpeech
-
-# coding=utf-8
 
 # 百度智能云账户参数配置
 APP_ID = '17134145'
