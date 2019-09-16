@@ -23,7 +23,7 @@ A curriculum design project from NJUST, include speech-recognition, word-segment
 - [wordSeg模块](https://github.com/Happy-Egg/redesigned-happiness/wiki/wordSeg%E6%A8%A1%E5%9D%97)
 
 ## 项目目录
-
+```
 ├─ AudioFiles  
 │  └─ 16k.wav  
 ├─ CoreSource  
@@ -31,3 +31,4 @@ A curriculum design project from NJUST, include speech-recognition, word-segment
 │  └─ wordSeg.py  
 ├─ venv  
 ├─ starter.py  
+```
