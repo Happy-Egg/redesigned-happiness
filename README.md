@@ -24,10 +24,28 @@ A curriculum design project from NJUST, include speech-recognition, word-segment
 
 ## 项目目录
 
+```
 ├─ AudioFiles  
-│  └─ 16k.wav  
+│  ├─ CASIA_database  // 语音情感数据集，用于训练和测试
+│  ├─ predictsets     // 自己录的音频，用于预测
+│  └─ 16k.wav         // 标准音频，用于识别和测试程序
 ├─ CoreSource  
-│  ├─ speechRec.py  
-│  └─ wordSeg.py  
-├─ venv  
-├─ starter.py  
+│  ├─ SpeechBasedEmotionRec
+│  |  ├─ Models                   // 训练好的模型
+│  |  ├─ Features                 // 从音频中提取出来的特征
+│  |  ├─ Config.py                // Opensmile的参数配置
+│  |  ├─ Common_Model.py          // 模型的父类
+│  |  ├─ DNN_Model.py             // lstm模型
+│  |  ├─ Opensmile_Feature.py     // 利用Opensmile提取特征
+│  |  ├─ Utils.py                 // 输出工具
+│  |  ├─ machineLearning.py       // 模型训练和数据准备
+│  |  ├─ speechFeature.py         // librosa提取特征
+|  |  └─ speechFeatureNew.py      // 自己实现mfcc
+│  ├─ text emotion                // 文字语音识别
+│  ├─ spectrogram.py              // 提取语谱图并保存
+│  ├─ speechRec.py                // 语音识别
+│  └─ wordSeg.py                  // 分词检索
+├─ venv                     
+├─ starter.py         // 语音识别和分词检索启动
+└─ ml_starter.py      // 情感识别启动
+```
