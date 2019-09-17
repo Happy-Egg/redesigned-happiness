@@ -45,6 +45,22 @@ A curriculum design project from NJUST, include speech-recognition, word-segment
 │  ├─ spectrogram.py              // 提取语谱图并保存
 │  ├─ speechRec.py                // 语音识别
 │  └─ wordSeg.py                  // 分词检索
+│  ├─ text emotion
+│  |  ├─ data
+│  |  |  ├─ ChnSentiCorp_htl_ba_2000
+│  │  |  |  ├─ 2000_data.csv      // 句向量
+│  │  |  |  ├─ 2000_neg_cut.txt   // 正向文本分词结果   
+│  │  |  |  └─ 2000_pos_cut.txt   // 负向文本分词结果  
+│  |  |  ├─ model
+│  │  |  |  ├─ LR_model.m         // LR模型文件
+│  │  |  |  └─ SVM_model.m        // SVM模型文件
+│  |  |  └─ stopWord.txt          // 中文停用词
+│  |  ├─ The_cut.py               // 去除字符、停用词
+│  |  ├─ The_text_vector.py       // 抽取句子特征得到句向量
+│  |  ├─ dimension_cut_test.py    // 对维度进行测试
+│  |  ├─ merge.py                 // 将多条语句整合为一个文本
+│  |  ├─ model_LR.py              // LR模型
+│  |  └─ model_SVM.py             // SVM模型
 ├─ venv                     
 ├─ starter.py         // 语音识别和分词检索启动
 └─ ml_starter.py      // 情感识别启动
