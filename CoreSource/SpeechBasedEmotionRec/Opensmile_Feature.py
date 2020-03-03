@@ -45,7 +45,7 @@ def load_feature(feature_path: str, train: bool):
             训练数据、测试数据和对应的标签
     """
     # 加载特征数据
-    df = pd.read_csv(feature_path)
+    df = pd.read_csv('CoreSource/SpeechBasedEmotionRec/' + feature_path)
     features = [str(i) for i in range(1, Config.FEATURE_NUM[Config.CONFIG] + 1)]
 
     X = df.loc[:, features].values
@@ -64,7 +64,7 @@ def load_feature(feature_path: str, train: bool):
     else:
         # 标准化数据
         # 加载标准化模型
-        scaler = joblib.load(Config.MODEL_PATH + 'SCALER_OPENSMILE.m')
+        scaler = joblib.load('CoreSource/SpeechBasedEmotionRec/' + Config.MODEL_PATH + 'SCALER_OPENSMILE.m')
         X = scaler.transform(X)
         return X
 
@@ -88,13 +88,13 @@ get_data():
 
 # Opensmile 提取特征
 def get_data_o(data_path: str, feature_path: str, train: bool):
-    writer = csv.writer(open(feature_path, 'w'))
+    writer = csv.writer(open('CoreSource/SpeechBasedEmotionRec/' + feature_path, 'w'))
     first_row = ['label']
     for i in range(1, Config.FEATURE_NUM[Config.CONFIG] + 1):
         first_row.append(str(i))
     writer.writerow(first_row)
 
-    writer = csv.writer(open(feature_path, 'a+'))
+    writer = csv.writer(open('CoreSource/SpeechBasedEmotionRec/' + feature_path, 'a+'))
     print('Opensmile extracting...')
 
     if train == True:

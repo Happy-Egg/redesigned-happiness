@@ -2,7 +2,7 @@
 import getopt
 import sys
 from CoreSource.SpeechBasedEmotionRec import machineLearning as ml
-
+from CoreSource.SpeechBasedEmotionRec import Utils as ul
 
 def main():
     # file_path = 'AudioFiles/16k.wav'
@@ -26,6 +26,9 @@ def main():
     train_data, train_label, test_data, test_label = ml.get_data_l(files)
     ml.svm_train(train_data, train_label, test_data, test_label)
     ml.svm_predict("svm_model.m", "AudioFiles/predictsets/record.wav")
+
+    model = ul.load_model(load_model_name='LSTM_OPENSMILE', model_name='lstm')
+    ml.lstm_predict(model, file_path="../../AudioFiles/predictsets/record.wav")
 
 
 if __name__ == "__main__":

@@ -28,8 +28,8 @@ load_model():
 def load_model(load_model_name: str, model_name: str):
     if (model_name == 'lstm'):
         # 加载json
-        model_path = 'Models/' + load_model_name + '.h5'
-        model_json_path = 'Models/' + load_model_name + '.json'
+        model_path = 'CoreSource/SpeechBasedEmotionRec/Models/' + load_model_name + '.h5'
+        model_json_path = 'CoreSource/SpeechBasedEmotionRec/Models/' + load_model_name + '.json'
 
         json_file = open(model_json_path, 'r')
         loaded_model_json = json_file.read()
