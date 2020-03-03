@@ -1,6 +1,13 @@
 # redesigned-happiness
 A curriculum design project from NJUST, include speech-recognition, word-segmentation &amp; emotion-recognition.
 
+## license
+- [see LICENSE](https://github.com/Happy-Egg/redesigned-happiness/blob/master/LICENSE)
+
+## 环境
+- 使用python3.6作为底包
+- 在项目根目录下打开终端使用命令`pip install -r requirements.txt`安装依赖
+
 ## 功能和使用说明
 - speechRec模块：调用百度API实现语音识别
 - wordSeg模块：调用jieba分词实现分词检索
@@ -63,5 +70,6 @@ A curriculum design project from NJUST, include speech-recognition, word-segment
 │  |  └─ model_SVM.py             // SVM模型
 ├─ venv                     
 ├─ starter.py         // 语音识别和分词检索启动
+├─ requirements.txt   // 环境依赖
 └─ ml_starter.py      // 情感识别启动
 ```
