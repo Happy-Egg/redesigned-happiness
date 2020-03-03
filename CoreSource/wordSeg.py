@@ -1,4 +1,4 @@
-# encoding=utf-8
+# coding=<encoding name>
 import jieba
 
 
