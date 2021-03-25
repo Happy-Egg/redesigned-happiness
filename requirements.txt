@@ -31,7 +31,7 @@ pycparser==2.19
 pyparsing==2.4.2
 python-dateutil==2.8.0
 pytz==2019.2
-PyYAML==5.1.2
+PyYAML==5.4
 requests==2.22.0
 resampy==0.2.2
 scikit-learn==0.21.1
